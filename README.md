@@ -57,7 +57,7 @@ Download APKs for different ABI architectures:
 
 ## License
 
-[MIT](https://github.com/ajay577/MusicPlayer/blob/master/LICENSE)
+[MIT](https://github.com/SahilKarwasra/MusicPlayerApp/blob/main/LICENSE)
 
 
 ## 🔗 Links
